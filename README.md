@@ -29,19 +29,16 @@
 
 ## 📂 Öne Çıkan Projeler
 
-- **[Eğitim Video Platformu](#)** – KPSS / YKS / LGS için MySQL tabanlı video portalı  
-- **[Tarım Pazaryeri Uygulaması](#)** – Çiftçi ile alıcı arasında güvenli ticaret uygulaması  
-- **[MIS Veritabanı Projesi](#)** – C# + SQL Server ile Cari / Stok yönetimi  
-- **[AI Görüntü İşleme](#)** – OpenCV + Python ile obje tanıma uygulaması  
+- **[Açık Port Bulma Uygulaması]** – Bu uygulamada python kodlarını kullanarak bir açık port bulma uygulaması yaptım, tkinter ile arayüz ekledim
+- **[Binary search tree]** – Bu uygulamada C# windows form application ile ikili arama ağacı yaptım 
+- **[Uçak rezervasyon uygulaması]** – C# ile basit bir personel kayıt uygulaması
+- **[Personel kayıt uygulaması]** – C# ile sql veri tabanı üzerinden personel kayıt uygulaması   
 
 ---
 
 ## 🎯 Hedefler & İlgi Alanları
 
-- Web & mobil uygulama geliştirme  
-- Yapay zekâ ve görüntü işleme (OpenCV, NumPy)  
-- MIS projeleri ve veritabanı yönetimi  
-- Girişimcilik ve tarım teknolojileri üzerine dijital çözümler  
+- Şuan ki hedefim web ve mobil üzerinde ileri seviye yazılım bilgisine sahip olmak ve alaımda en iyi seviyelere ulaşmak.
 
 ---
 
