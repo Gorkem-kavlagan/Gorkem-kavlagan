@@ -46,5 +46,3 @@
 
 ![Görkem Kavlagan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Gorkem-kavlagan&show_icons=true&hide=prs&count_private=true&theme=radical)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Gorkem-kavlagan&layout=compact&theme=radical)
-
